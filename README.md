@@ -1,7 +1,7 @@
 # Analysis of Alcohol and Cannabis in Canada Since Recreational Cannabis Legalization
 ### By Adam DeBrouwere
 
-This project offers an analysis of alcohol and cannabis consumption and sales trends in Canada following the legalization of recreational cannabis in October 2018. Using data from Statistics Canada, the visualizations aim to provide insights without promoting either substance.
+This project offers an analysis of alcohol and cannabis consumption and sales trends in Canada following the legalization of recreational cannabis in October 2018. Using data from Statistics Canada, the visualizations aim to provide insights without promoting either substance. See it fully deployed [here](https://alc-can-market-analysis.netlify.app/).
 
 ## Features
 
@@ -25,33 +25,11 @@ This project offers an analysis of alcohol and cannabis consumption and sales tr
 
 ## Installation
 
-### Backend
-
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the development server:
-
-    ```bash
-    python manage.py runserver
-    ```
-
-### Frontend
-
-1. Navigate to the frontend folder:
-
-    ```bash
-    cd frontend
+    git clone https://github.com/adamdebrouwere/alc-can-bokeh-vis-frontend.git
+    cd https://github.com/adamdebrouwere/alc-can-bokeh-vis-frontend.git
     ```
 
 2. Install dependencies:
@@ -63,15 +41,8 @@ This project offers an analysis of alcohol and cannabis consumption and sales tr
 3. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
-
-## Deployment
-
-The project can be deployed using services like Render for the backend and Netlify for the frontend:
-
-- **Backend**: Django backend deployed on Render.
-- **Frontend**: React app hosted on Netlify.
 
 ## Visualizations
 
