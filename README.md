@@ -29,7 +29,7 @@ This project offers an analysis of alcohol and cannabis consumption and sales tr
 
     ```bash
     git clone https://github.com/adamdebrouwere/alc-can-bokeh-vis-frontend.git
-    cd https://github.com/adamdebrouwere/alc-can-bokeh-vis-frontend.git
+    cd alc-can-bokeh-vis-frontend
     ```
 
 2. Install dependencies:
