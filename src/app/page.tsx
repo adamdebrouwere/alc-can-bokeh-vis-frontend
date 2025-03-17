@@ -204,9 +204,10 @@ const MainPage: React.FC = () => {
           Since recreational cannabis legalization, less people report alcohol
           consumption in the past 12 months, while more people report cannabis
           consumption in the past 12 months. Alcohol saw its first ever year of
-          negative growth in 2023, and again 2024, while cannabis edibles gained
-          market share in a growing cannabis market. This suggests that cannabis
-          edibles are potentially having an impact on alcohol sales in Canada.
+          negative growth in 2023, and again 2024, while cannabis edibles and
+          extracts gained market share in a growing cannabis market. This
+          suggests that cannabis edibles and extracts are potentially having an
+          impact on alcohol sales in Canada.
         </p>
       </div>
       <div className="flex flex-col">
