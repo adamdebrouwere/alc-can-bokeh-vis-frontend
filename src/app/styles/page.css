@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: x-large;
+    font-weight: 700;
+}
+h2 {
+    font-size: larger;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: large;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: medium;
+    font-weight: 600;
+}
+
+li {
+    font-size: small;
+}
+
+ol {
+    list-style-type: decimal;
+}
