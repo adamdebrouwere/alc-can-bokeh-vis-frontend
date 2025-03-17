@@ -61,4 +61,4 @@ This project offers an analysis of alcohol and cannabis consumption and sales tr
 
 ## Conclusion
 
-The data suggests a potential correlation between the legalization of cannabis and shifts in alcohol consumption. Cannabis edibles, in particular, appear to have influenced alcohol sales in Canada.
+The data suggests a potential correlation between the legalization of cannabis and shifts in alcohol consumption. Cannabis edibles and extracts, in particular, appear to have influenced alcohol sales in Canada.
