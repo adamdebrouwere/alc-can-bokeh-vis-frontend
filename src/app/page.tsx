@@ -107,9 +107,9 @@ const MainPage: React.FC = () => {
           </sup>
         </div>
         <p>
-          Alcoholic products market shares have been relativeley stagnant for
+          Alcoholic products market shares have been relatively stagnant for
           the past 5 years. One area of consistant growth is in the ciders and
-          coolers market, where in 2020 it held a 5.3% Market share and steadily
+          coolers market, where in 2020 it held a 5.3% market share and steadily
           grew to an 8.7% market share in 2024.
         </p>
       </div>
@@ -127,7 +127,7 @@ const MainPage: React.FC = () => {
         </div>
         <p>
           Since legalization of cannabis edibles and extracts differed from
-          provice to province, Dried Cannabis held the vast majority of the
+          provice to province, Dried cannabis held the vast majority of the
           market share in 2020 (73.4%). It still holds 52.8% control, but as
           regulations ease, the edibles and extracts markets have grown from
           26.5% in 2020 to 47% in 2024. Edibles held an edge in market control
